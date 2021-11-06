@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Không được đâu :3',
     question: 'Tại sao bạn lại yêu mình thế❤️',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'tại vì đẹp troai nên yêu thoiiii :333333',
+    reply: 'tại vì đẹp troai nên yêu thoiiii  :333333',
     mess: 'hihi. Mình biết mà 🥰. iuiu nhìu 😘😘',
     messDesc: 'Vậy quay ra bật chế độ hẹn hò với mình nhá😘.',
     btnAccept: 'Okiiiii iuu <3',
